@@ -1,0 +1,9 @@
+TransactionID,Date,Region,Salesperson,Category,Quantity,UnitPrice,TotalAmount
+T001,2023-01-15,North,Alice,Electronics,2,500.00,1000.00
+T002,2023-01-20,South,Bob,Books,5,20.00,100.00
+T003,2023-02-10,East,Charlie,Electronics,1,1200.00,1200.00
+T004,2023-02-15,North,Alice,Books,3,25.00,75.00
+T005,2023-03-05,West,David,Clothing,10,30.00,300.00
+T006,2023-01-25,South,Bob,Electronics,1,800.00,800.00
+T007,2023-03-12,North,Alice,Clothing,4,40.00,160.00
+T008,INVALID_DATE,North,Alice,Clothing,4,40.00,160.00
